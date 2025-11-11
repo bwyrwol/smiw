@@ -1,1 +1,1 @@
-# smiw
+# smiw - materialy na laboratorium
