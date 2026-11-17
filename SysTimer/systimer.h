@@ -51,6 +51,6 @@ uint8_t systimer_init(uint16_t systick);
   * @return brak
   *
   */
-void systimer_callback(void) __attribute__((weak));
+
 
 #endif /* SYSTIMER_H_ */
