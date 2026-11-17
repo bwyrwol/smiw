@@ -42,6 +42,9 @@
 *.idb
 *.pdb
 
+# Debug folders
+[Dd]ebug/
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
